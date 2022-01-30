@@ -1,0 +1,29 @@
+body{
+  background-color:#ffeecc;
+}
+.group-card{
+  background-color:white;
+  border-radius:5px;
+  border: 1px solid #ffa31a;
+  box-shadow:2px 2px 5px black;
+  padding: 10px;
+  margin: 10px; 
+}
+
+.group-card:hover{
+  background-color:white;
+  border-radius:10px;
+  border: 2px solid #ffa31a;
+  box-shadow:3px 3px 8px black;
+}
+.avatar{
+  border-radius: 50%;
+  width: 50px;
+}
+.ico-github-open{
+  margin-left: 15px;
+}
+.btn-project{
+  border-radius: 50px;
+  font-size:20px;
+}
